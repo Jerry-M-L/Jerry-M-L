@@ -1,87 +1,85 @@
 <div align="center">
-  <img src="./assets/profile-banner.svg" alt="Jerry MBENDA-LECA — Software Engineer & Product Builder" width="100%" />
-  <br/><br/>
-  <strong>From early ideas to thoughtful digital products.</strong>
-  <br/>
-  <sub>Software engineer & entrepreneur · Bangui, Central African Republic · Available for remote collaboration</sub>
-  <br/><br/>
-  <a href="https://jerrymbendaleca.vercel.app/">
-    <img src="https://img.shields.io/badge/View%20Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white" alt="View portfolio" />
-  </a>
-  <a href="https://wa.me/23674021672">
-    <img src="https://img.shields.io/badge/Let's%20Talk-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Start a conversation on WhatsApp" />
-  </a>
+
+<img src="./assets/profile-banner.svg" alt="Jerry MBENDA-LECA — Software Engineer & Product Builder" width="100%" />
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2900&pause=1250&color=31CFCB&center=true&vCenter=true&width=850&lines=Turning+ideas+into+meaningful+products;Engineering+with+purpose+and+precision;Design.+Build.+Refine.+Ship." alt="Animated introduction: Turning ideas into meaningful products" />
+
+<br/>
+
+**Software Engineer & Entrepreneur** · Bangui, Central African Republic
+
+Building thoughtful digital products. Available for remote collaborations.
+
+<br/>
+
+<a href="https://jerrymbendaleca.vercel.app/">
+  <img src="https://img.shields.io/badge/Explore%20Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit my portfolio"/>
+</a>
+<a href="https://wa.me/23674021672">
+  <img src="https://img.shields.io/badge/Let's%20Talk-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Contact me on WhatsApp"/>
+</a>
+
 </div>
 
 <br/>
 
-## Hello, I'm Jerry.
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D182B,50:27C9C5,100:0D182B&height=2&section=header" width="100%" alt="" />
 
-I design and engineer digital products that solve real problems. My work sits at the intersection of **reliable software engineering, thoughtful product decisions and practical impact**.
+### Hello, I'm Jerry.
 
-From a first concept to a working experience, I care about the details that make a product valuable: clarity, usability, maintainability and delivery.
+I design and engineer digital products that solve real problems.
 
-**What I can help you build:** web platforms, mobile experiences, digital products and purpose-driven solutions.
+My work lives where **software engineering meets product thinking**: turning ideas into reliable, purposeful experiences that people can actually use.
 
-## Selected work
+I care about the entire journey — understanding the problem, shaping the right solution, building with precision, and delivering a product ready for the real world.
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>JIE Forum</h3>
-      <p><strong>Events & community</strong></p>
-      <p>A digital platform supporting registrations, partner applications and community engagement around youth, entrepreneurship and agribusiness in Central Africa.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Manda Sango</h3>
-      <p><strong>Education & culture</strong></p>
-      <p>An interactive learning experience exploring how digital products can support the preservation and accessibility of local African languages.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Agri AI</h3>
-      <p><strong>Agriculture & innovation</strong></p>
-      <p>Contributions to AI-driven agricultural innovation, connecting emerging technologies with real ecosystem needs.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Impacte et Motivation</h3>
-      <p><strong>Community & social impact</strong></p>
-      <p>A platform built around meaningful stories, motivation and empowering communities through digital experiences.</p>
-    </td>
-  </tr>
-</table>
+**What I bring to the table:** technical execution, a product mindset, thoughtful design decisions, and a commitment to meaningful outcomes.
 
-<p align="center">
-  <a href="https://jerrymbendaleca.vercel.app/"><strong>Explore my portfolio and projects ↗</strong></a>
-</p>
-
-## Let's build something meaningful.
-
-Have a product in mind, a collaboration to explore or a challenge worth solving? I'd love to hear about it.
+<br/>
 
 <div align="center">
-  <a href="https://jerrymbendaleca.vercel.app/" title="Portfolio">
-    <img src="https://cdn.simpleicons.org/vercel/000000/FFFFFF" alt="Portfolio" width="34" height="34"/>
+  <h3>Have an idea worth building?</h3>
+  <p>Let's turn it into something real.</p>
+  <a href="https://jerrymbendaleca.vercel.app/">
+    <img src="https://img.shields.io/badge/See%20My%20Work-123C59?style=for-the-badge&logo=vercel&logoColor=white" alt="See my work"/>
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/jerry-mbenda-leca-957453232" title="LinkedIn">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" width="34" height="34"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://x.com/Lecreatif01" title="X">
-    <img src="https://cdn.simpleicons.org/x/000000/FFFFFF" alt="X" width="34" height="34"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/Jerry-M-L" title="GitHub">
-    <img src="https://cdn.simpleicons.org/github/181717/FFFFFF" alt="GitHub" width="34" height="34"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://wa.me/23674021672" title="WhatsApp">
-    <img src="https://cdn.simpleicons.org/whatsapp/25D366" alt="WhatsApp" width="34" height="34"/>
+  <a href="https://wa.me/23674021672">
+    <img src="https://img.shields.io/badge/Start%20a%20Conversation-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Start a conversation"/>
   </a>
 </div>
 
 <br/>
 
-<p align="center"><sub>Thoughtful engineering. Real products. Meaningful impact.</sub></p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D182B,50:27C9C5,100:0D182B&height=2&section=header" width="100%" alt="" />
+
+<div align="center">
+
+### Connect with me
+
+<a href="https://jerrymbendaleca.vercel.app/" title="Portfolio">
+  <img src="https://cdn.simpleicons.org/vercel/000000/FFFFFF" alt="Portfolio" width="32" height="32"/>
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/jerry-mbenda-leca-957453232" title="LinkedIn">
+  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" width="32" height="32"/>
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://x.com/Lecreatif01" title="X">
+  <img src="https://cdn.simpleicons.org/x/000000/FFFFFF" alt="X" width="32" height="32"/>
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/Jerry-M-L" title="GitHub">
+  <img src="https://cdn.simpleicons.org/github/181717/FFFFFF" alt="GitHub" width="32" height="32"/>
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://wa.me/23674021672" title="WhatsApp">
+  <img src="https://cdn.simpleicons.org/whatsapp/25D366" alt="WhatsApp" width="32" height="32"/>
+</a>
+
+<br/><br/>
+
+<sub>Thoughtful engineering · Real products · Meaningful impact</sub>
+
+</div>
