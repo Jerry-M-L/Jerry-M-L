@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 330" role="img" aria-labelledby="title desc">
+  <title id="title">Jerry MBENDA-LECA — Software Engineer &amp; Product Builder</title>
+  <desc id="desc">Dark navy editorial banner with turquoise and blue abstract product geometry.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#081224"/>
+      <stop offset=".52" stop-color="#10223E"/>
+      <stop offset="1" stop-color="#123F58"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#72E3E0"/>
+      <stop offset="1" stop-color="#4D9DED"/>
+    </linearGradient>
+    <linearGradient id="glass" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#93D9EA" stop-opacity=".15"/>
+      <stop offset="1" stop-color="#93D9EA" stop-opacity=".025"/>
+    </linearGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M 36 0 L 0 0 0 36" fill="none" stroke="#86D8E8" stroke-opacity=".075" stroke-width="1"/>
+    </pattern>
+    <clipPath id="frame"><rect x="0" y="0" width="1200" height="330" rx="22"/></clipPath>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="330" fill="url(#bg)"/>
+    <rect x="715" y="0" width="485" height="330" fill="url(#grid)"/>
+    <circle cx="1048" cy="120" r="210" fill="#4BC8D9" opacity=".06"/>
+    <circle cx="1048" cy="120" r="155" fill="none" stroke="#88DBE4" stroke-opacity=".25"/>
+    <circle cx="1048" cy="120" r="115" fill="none" stroke="#88DBE4" stroke-opacity=".2"/>
+    <circle cx="1048" cy="120" r="75" fill="none" stroke="#88DBE4" stroke-opacity=".2"/>
+    <path d="M 851 292 C 960 224 1044 296 1206 173" fill="none" stroke="url(#accent)" stroke-opacity=".6" stroke-width="2"/>
+    <rect x="849" y="72" width="190" height="148" rx="18" fill="url(#glass)" stroke="#9EECED" stroke-opacity=".38" transform="rotate(-7 944 146)"/>
+    <rect x="937" y="102" width="173" height="124" rx="16" fill="#102D45" stroke="#6ADBE1" stroke-opacity=".6" transform="rotate(7 1023 164)"/>
+    <circle cx="991" cy="162" r="18" fill="url(#accent)"/>
+    <rect x="1022" y="149" width="58" height="8" rx="4" fill="#CCE9EF" opacity=".84"/>
+    <rect x="1022" y="167" width="41" height="6" rx="3" fill="#A2CBD6" opacity=".48"/>
+    <rect x="60" y="45" width="236" height="34" rx="17" fill="#57D8DE" fill-opacity=".11" stroke="#57D8DE" stroke-opacity=".42"/>
+    <circle cx="81" cy="62" r="4" fill="#79E9DF"/>
+    <text x="94" y="68" fill="#C3F9F7" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" letter-spacing="2.1">ENGINEERING × PRODUCT</text>
+    <text x="59" y="166" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="70" font-weight="700" letter-spacing="-2">Jerry</text>
+    <text x="59" y="235" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="65" font-weight="700" letter-spacing="-2">MBENDA-LECA</text>
+    <rect x="60" y="257" width="59" height="4" rx="2" fill="url(#accent)"/>
+    <text x="60" y="293" fill="#B7DAE4" font-family="Arial, Helvetica, sans-serif" font-size="19" letter-spacing="1.4">SOFTWARE ENGINEER &amp; PRODUCT BUILDER</text>
+  </g>
+</svg>
